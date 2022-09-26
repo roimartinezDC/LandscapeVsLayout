@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- string para cuando el dispositivo esté apaisado -->
 <resources>
     <string name="txtview">ESTOY APAISADO</string>
 </resources>
